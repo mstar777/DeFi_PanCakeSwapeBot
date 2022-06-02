@@ -102,13 +102,6 @@ Contributions are what make the open source community such an amazing place to l
 4. Push to the Branch
 5. Open a Pull Request
 
-
-<!-- CONTACT -->
-## Contact
-
-For queries comment at  https://www.youtube.com/watch?v=cSel-wyrTFI
-#### If you enjoyed the bot do give a Star :) 
-
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
