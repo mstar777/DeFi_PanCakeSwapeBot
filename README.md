@@ -4,7 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/ZainAchak/DeFi_PanCakeSwapBot">
+  <a href="https://github.com/ZainAchak/DeFi_PanCakeSwapeBot">
     <img src="images/Defi_PancakeBot.png" alt="Logo" width="230" height="160">
   </a>
 
